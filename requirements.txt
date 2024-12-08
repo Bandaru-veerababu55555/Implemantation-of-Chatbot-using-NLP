@@ -1,0 +1,6 @@
+Python
+nltk
+Streamlit
+scikit-learn
+Streamlit
+Json for intents Data
